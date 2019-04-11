@@ -76,7 +76,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
-                                    <h2><span>Technovation </span></h2>
+                                    <h2>Bienvenidos a <span>Technovation </span></h2>
                                     <p>Innovación Tecnológica </p>
                                     
                                 </div>
@@ -285,7 +285,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Tecnologías Utilizadas</h2>
-                <!--p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p-->
+                <p class="text-center wow fadeInDown">En Technovation Utilizamos Las mejores Tecnologías del Mercado</p>
             </div>
 
             <div class="text-center">
