@@ -15,8 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
+
+
 Auth::routes();
 
-Route::post('/enviar', 'HomeController@enviar')->name('enviar');
-
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::post('enviar', 'ContactoController@enviar')->name('enviar');
